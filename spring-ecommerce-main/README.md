@@ -72,7 +72,7 @@ Amo los desafíos. También me gusta muchísimo el diseño por eso me desenvuelv
 
 **Habilidades:**
 
-- *Java*: Nivel Intermedio -
+- *Java*: Nivel Intermedio 
 - *Javascript*: Nivel Intermedio
 - *PHP*: Nivel avanzado
 - *HTML*: Nivel Avanzado 
